@@ -6,6 +6,7 @@ public class Main {
 	{
 		System.out.println("Hello jsp");
 		System.out.println("Hello Spring");
+		System.out.println("Hello HTML");
 	}
 	public static void main(String[] args)
 	{
